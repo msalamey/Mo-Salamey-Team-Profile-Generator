@@ -1,8 +1,8 @@
 # Mo-Salamey-Team-Profile-Generator
 
 ## Table of Contents: 
-* Description
-* Actions Taken
+* [Description](#Description)
+* Actions Taken 
 * Links
 
 ## Description
@@ -12,3 +12,5 @@ To create a Node.js command-line application that takes in information about emp
 * Installed the 
  
 ## Links
+* Video Link: 
+* Git
