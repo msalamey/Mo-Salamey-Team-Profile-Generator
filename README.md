@@ -2,8 +2,8 @@
 
 ## Table of Contents: 
 * [Description](#Description)
-* [Actions Taken](#ActionsTaken)
-* [Screen Shot](#ScreenShot)
+* [Actions Taken](#Actions Taken)
+* [Screen Shot](#Screen Shot)
 * [Links](#Links)
 
 ## Description
