@@ -3,7 +3,7 @@
 ## Table of Contents: 
 * [Description](#Description)
 * [Actions Taken](#ActionsTaken)
-* [Screen Shot](#Screen Shot)
+* [Screen Shot](#ScreenShot)
 * [Links](#Links)
 
 ## Description
