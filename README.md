@@ -3,6 +3,7 @@
 ## Table of Contents: 
 * [Description](#Description)
 * [Actions Taken](#ActionsTaken)
+* [Screen Shot[(#Screen Shot)
 * [Links](#Links)
 
 ## Description
@@ -13,6 +14,10 @@ To create a Node.js command-line application that takes in information about emp
 * Utilized the Jest package for running unit tests. 
 * Utilized the "writefile" function to write the inputs onto a generated HTML. 
 * Utilized bootstrap for basic styling, boxes/cards, web display. 
+
+## Screen Shot
+
+![image](https://user-images.githubusercontent.com/107436206/192126019-c714cb9b-207c-4e94-a8c9-ad95aecf32a3.png)
  
 ## Links
 * Video Link: https://drive.google.com/file/d/1NxNWZwU7baLRFm3VOu_LlvIviadvZDc6/view
